@@ -1,0 +1,69 @@
+.resume {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: lightblue;
+}
+
+style {
+    background-color: lightblue;
+}
+  
+  h1 {
+    color: white;
+    text-align: left;
+}
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+.header {
+    text-align: center;
+}
+
+.small-image {
+    width: 60%;
+    height: 60%;
+}
+
+.header img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.header h1 {
+    margin: 0;
+    color: blue;
+    
+}
+
+.header p {
+    color: gray;
+    
+    margin: 5px 0;
+}
+
+.content {
+    margin-top: 20px;
+}
+
+.content h2 {
+    color: darkblue;
+    
+    margin-top: 0;
+}
+
+.content p {
+    color: gray;
+    
+    margin: 5px 0;
+}
